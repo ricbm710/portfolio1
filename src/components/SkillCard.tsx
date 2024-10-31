@@ -8,7 +8,7 @@ const SkillCard = ({ skill }: { skill: Skill }) => {
     <>
       <div className="flex flex-col items-center justify-center mb-2">
         <img
-          src={`${basePath}src/assets/skills/${skill.logo}`}
+          src={`${basePath}skills/${skill.logo}`}
           alt="logo"
           className="w-8 h-8"
         />

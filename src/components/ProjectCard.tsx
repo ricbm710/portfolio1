@@ -11,7 +11,7 @@ const ProjectCard = ({ project }: { project: Project }) => {
       <div className="flex flex-col bg-gray-100 rounded-md shadow-md p-2">
         <div className="flex items-center justify-center text-center">
           <img
-            src={`${basePath}src/assets/${project.logo}`}
+            src={`${basePath}projects/${project.logo}`}
             alt="logo"
             className="w-14 h-14 rounded-md border-2 border-gray-300 shadow-sm p-1 hover:shadow-md transition-shadow duration-300"
           />
