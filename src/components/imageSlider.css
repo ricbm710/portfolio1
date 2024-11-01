@@ -1,0 +1,9 @@
+.slick-prev,
+.slick-next {
+  color: #dda15eff; /* Change to your desired color */
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: inherit; /* Ensures the arrow icons inherit the button color */
+}

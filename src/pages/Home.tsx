@@ -5,8 +5,8 @@ import Skills from "../components/Skills";
 
 const Home = () => {
   return (
-    <div>
-      <div className="flex flex-col sm:flex-row sm:gap-2">
+    <div className="mx-2">
+      <div className="flex flex-col lg:flex-row lg:gap-2">
         <Description />
         <Projects />
       </div>

@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const Footer = () => {
   return (
     <>
-      <div className="flex flex-col mt-2 bg-cornsilk p-2">
+      <div className="flex flex-col mt-2 bg-gray-100 p-2">
         <h2 className="text-sm mb-1 ms-4 font-medium">Contact me:</h2>
         <div className="flex p-1 ms-6">
           <FontAwesomeIcon icon={faWhatsapp} className="me-1 text-tigerseye" />
