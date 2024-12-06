@@ -34,4 +34,12 @@ export const skills: Skill[] = [
     name: "Github",
     logo: "github.png",
   },
+  {
+    name: "SQL",
+    logo: "sql.png",
+  },
+  {
+    name: "Next",
+    logo: "next.png",
+  },
 ];

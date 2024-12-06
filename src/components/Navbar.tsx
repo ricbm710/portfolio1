@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className="flex">
           <div className="flex flex-col items-start justify-center ms-8">
             <h1 className="font-bold sm:text-xl">Ricardo Barrientos</h1>
-            <h2 className="font-medium sm:text-lg">Front-End Developer</h2>
+            <h2 className="font-medium sm:text-lg">Full Stack Developer</h2>
             <div className="mt-2 flex">
               <FontAwesomeIcon icon={faLocationDot} />
               <p className="text-xs sm:text-base ms-2">Santa Cruz, Bolivia</p>
